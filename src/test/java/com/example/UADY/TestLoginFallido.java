@@ -12,7 +12,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.commons.io.FileUtils;
 import java.io.File;
 
-public class LoginFallido {
+public class TestLoginFallido {
   private WebDriver driver;
   private String baseUrl;
   private boolean acceptNextAlert = true;
